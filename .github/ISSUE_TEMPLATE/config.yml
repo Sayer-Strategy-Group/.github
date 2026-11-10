@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Open a Linear issue
+    url: https://linear.app/gosayer
+    about: Sayer tracks bugs and tasks in Linear, not in GitHub issues. Open it in the Linear team that owns this repo.
